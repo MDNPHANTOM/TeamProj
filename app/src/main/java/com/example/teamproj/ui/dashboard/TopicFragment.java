@@ -15,7 +15,7 @@ import androidx.lifecycle.ViewModelProvider;
 import com.example.teamproj.R;
 import com.example.teamproj.databinding.FragmentDashboardBinding;
 
-public class DashboardFragment extends Fragment {
+public class TopicFragment extends Fragment {
 
     private DashboardViewModel dashboardViewModel;
     private FragmentDashboardBinding binding;

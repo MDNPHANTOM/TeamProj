@@ -15,7 +15,7 @@ import androidx.lifecycle.ViewModelProvider;
 import com.example.teamproj.R;
 import com.example.teamproj.databinding.FragmentHomeBinding;
 
-public class HomeFragment extends Fragment {
+public class ProgressFragment extends Fragment {
 
     private HomeViewModel homeViewModel;
     private FragmentHomeBinding binding;
